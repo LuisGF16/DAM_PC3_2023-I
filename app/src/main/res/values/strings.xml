@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAM_UC3_LuisGayoso</string>
+    <string name="Text_correo">Correo electrónico</string>
+    <string name="text_contraseña">Contraseña</string>
+    <string name="Button_entrar">Entrar</string>
+    <string name="check_nocerrar">No cerrar cesión</string>
+    <string name="Txt_olvidarcontra">¿Has olvidado tu contraseña?</string>
+    <string name="Button_Registrate">Registrate</string>
+</resources>
